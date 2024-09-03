@@ -4,7 +4,7 @@
 
 This is a plugin implemented in **Vimscript** language that can run in Vim.
 
-This plugin enables one click annotation of **C++** code in normal mode, insertion mode, selection mode, and visual mode.
+This plugin enables one click annotation of **C++** code in normal mode, insert mode, select mode, and visual mode.
 
 At present, C, C++ and pascal is supported, and one click comments for languages such as Python, Java, and Go will be updated in the future.
 
