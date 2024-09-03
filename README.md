@@ -14,6 +14,8 @@ If there is a problem, please contact me, or submit an issue, sure you also can 
 
 I dislike neovim,so this is a vim plugin.
 
+It maybe can work perfect in neovim, but it's not need because Neovim 10.0 has implemented comment (use key "gc").
+
 ## Usage
 
 In `cpp` or `pascal` files, one or more lines of code can be commented out, limited to `//`.
